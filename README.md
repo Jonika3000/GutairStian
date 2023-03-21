@@ -1,6 +1,6 @@
 # GutairStian
 
-This program will help beginner guitar players like me. She has a guitar tuner as well as sound recording with the ability to save it.
+This is WPF C# program will help beginner guitar players like me. She has a guitar tuner as well as sound recording with the ability to save it.
 
 This is what sound recording looks like
 ![image](https://user-images.githubusercontent.com/66825034/226745709-2ce3d120-fc21-4dee-a027-d4848d4ac36d.png)
